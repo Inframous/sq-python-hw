@@ -1,0 +1,9 @@
+
+Write a test function to test that a function called add_int correctly adds two integers.
+Write a test function to test that a function called multiply_int correctly multiplies two integers.
+Write a test function to test that a function called divide_int correctly divides two integers.
+Write a test function to test that a function called check_palindrome correctly identifies palindromes.
+Write a test function to test that a function called reverse_string correctly reverses a string.
+Create a mark for all the arithmetic tests.
+Create a mark for all the string tests.
+Validate that the marks are working.
